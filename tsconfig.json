@@ -8,7 +8,7 @@
     "allowSyntheticDefaultImports": true,
     "target": "ES2021",
     "sourceMap": true,
-    "rootDir": "./src",
+    "rootDir": "./",
     "outDir": "./dist",
     "baseUrl": "./",
     "incremental": true,
@@ -17,9 +17,6 @@
     "noImplicitAny": false,
     "strictBindCallApply": false,
     "forceConsistentCasingInFileNames": false,
-    "noFallthroughCasesInSwitch": false,
-    "paths": {
-      "/": ["./src/index.ts"]
-    }
+    "noFallthroughCasesInSwitch": false
   }
 }

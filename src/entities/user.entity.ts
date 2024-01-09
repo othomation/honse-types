@@ -5,3 +5,5 @@ export type User = {
 export type UserSocket = User & {
   socketId: string;
 };
+
+export const ANON_NAME = "Honse Anon" as const;
