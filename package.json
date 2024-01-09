@@ -1,9 +1,10 @@
 {
   "name": "@honse/types",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "TS Types for honse draw project",
   "main": "index.ts",
   "scripts": {},
+  "type": "module",
   "author": "otho",
   "license": "ISC",
   "devDependencies": {
