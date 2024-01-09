@@ -1,15 +1,19 @@
 {
-  "name": "honses-types",
-  "version": "0.0.1",
+  "name": "@honse/types",
+  "version": "0.0.2",
   "description": "TS Types for honse draw project",
   "main": "src/index.ts",
   "scripts": {},
-  "author": "",
+  "author": "otho",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.3.3"
   },
   "repository": {
-    "url": "https://github.com/othomation/honse-types"
-  }
+    "url": "git+https://github.com/othomation/honse-types.git"
+  },
+  "bugs": {
+    "url": "https://github.com/othomation/honse-types/issues"
+  },
+  "homepage": "https://github.com/othomation/honse-types#readme"
 }
