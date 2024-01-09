@@ -3,11 +3,13 @@
   "version": "0.0.1",
   "description": "TS Types for honse draw project",
   "main": "src/index.ts",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.3.3"
+  },
+  "repository": {
+    "url": "https://github.com/othomation/honse-types"
   }
 }
