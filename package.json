@@ -1,6 +1,6 @@
 {
   "name": "@honse/types",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "TS Types for honse draw project",
   "main": "index.ts",
   "scripts": {},
