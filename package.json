@@ -2,7 +2,7 @@
   "name": "@honse/types",
   "version": "0.0.6",
   "description": "TS Types for honse draw project",
-  "main": "index.ts",
+  "main": "index.js",
   "scripts": {
     "prepublishOnly": "tsc && rollup -c"
   },

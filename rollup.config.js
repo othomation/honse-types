@@ -1,6 +1,6 @@
 export default {
     input: 'dist/index.js',
-    otput: {
+    output: {
         file: 'index.js'
     }
 }
